@@ -51,13 +51,13 @@ WQNetworkActivityIndicator.shared.hide()
 WQNetworkActivityIndicator.shared.show()
 
 networkRequestA() {
-WQNetworkActivityIndicator.shared.hide()
+  WQNetworkActivityIndicator.shared.hide()
 }
 
 WQNetworkActivityIndicator.shared.show()
 
 networkRequestB() {
-WQNetworkActivityIndicator.shared.hide()
+  WQNetworkActivityIndicator.shared.hide()
 }
 ```
 

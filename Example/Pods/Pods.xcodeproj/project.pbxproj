@@ -36,7 +36,7 @@
 		178216E1D86B4014A49EA8F7C2039AFD /* Pods-WQNetworkActivityIndicator_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WQNetworkActivityIndicator_Tests-resources.sh"; sourceTree = "<group>"; };
 		1B9382FE04987A8B5AE6FA03CC3082AE /* Pods-WQNetworkActivityIndicator_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WQNetworkActivityIndicator_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		2961E079A70430DE274E77A52BD321A3 /* Pods-WQNetworkActivityIndicator_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WQNetworkActivityIndicator_Example-resources.sh"; sourceTree = "<group>"; };
-		2EB31A68D4DB33809492963122902A90 /* WQNetworkActivityIndicator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WQNetworkActivityIndicator.framework; path = WQNetworkActivityIndicator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2EB31A68D4DB33809492963122902A90 /* WQNetworkActivityIndicator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WQNetworkActivityIndicator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3232DEE857D8FE0731E358B26F5F03E3 /* WQNetworkActivityIndicator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WQNetworkActivityIndicator-dummy.m"; sourceTree = "<group>"; };
 		3A708B0B12D66C8B2B3332078CB1E9BA /* Pods-WQNetworkActivityIndicator_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WQNetworkActivityIndicator_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3BC70F1927260F9D812B5C295650C3CF /* WQNetworkActivityIndicator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WQNetworkActivityIndicator-prefix.pch"; sourceTree = "<group>"; };
@@ -46,23 +46,23 @@
 		64753103826CCAB8839F1CAA8FCB2481 /* Pods-WQNetworkActivityIndicator_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WQNetworkActivityIndicator_Example-dummy.m"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		68A7503817AE0EE598FC8A4442D8642D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6B2C56068D0E444410FD49AF24FDA072 /* WQNetworkActivityIndicator.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = WQNetworkActivityIndicator.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6B2C56068D0E444410FD49AF24FDA072 /* WQNetworkActivityIndicator.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = WQNetworkActivityIndicator.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		89CE30E853975FDFDA4615B6A2860AE1 /* Pods-WQNetworkActivityIndicator_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WQNetworkActivityIndicator_Example-frameworks.sh"; sourceTree = "<group>"; };
 		8C3896B36C37F92E6FF4D201432144A4 /* Pods-WQNetworkActivityIndicator_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WQNetworkActivityIndicator_Example.release.xcconfig"; sourceTree = "<group>"; };
-		8C4FBF5C915A31AC6972DA7C07304F42 /* Pods_WQNetworkActivityIndicator_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WQNetworkActivityIndicator_Example.framework; path = "Pods-WQNetworkActivityIndicator_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C4FBF5C915A31AC6972DA7C07304F42 /* Pods_WQNetworkActivityIndicator_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WQNetworkActivityIndicator_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CAE3F061BF32BF8E1FF5DA6FCC6DAB7 /* Pods-WQNetworkActivityIndicator_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WQNetworkActivityIndicator_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		8EF76EA5C77804476980E54751C7DDEF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8EF76EA5C77804476980E54751C7DDEF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		968EF3FB5D64959DE19CC66DD0A38AC7 /* Pods-WQNetworkActivityIndicator_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WQNetworkActivityIndicator_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B0299DE16EFF6FC95E477F722C905C61 /* WQNetworkActivityIndicator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WQNetworkActivityIndicator.swift; path = WQNetworkActivityIndicator/Classes/WQNetworkActivityIndicator.swift; sourceTree = "<group>"; };
 		C205E9B22DCF0E0CD1FE7118AEAD4493 /* Pods-WQNetworkActivityIndicator_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WQNetworkActivityIndicator_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C2FF3EFB7B6FBC04127D5C3FC3239847 /* Pods_WQNetworkActivityIndicator_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WQNetworkActivityIndicator_Tests.framework; path = "Pods-WQNetworkActivityIndicator_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2FF3EFB7B6FBC04127D5C3FC3239847 /* Pods_WQNetworkActivityIndicator_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WQNetworkActivityIndicator_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C55B18D032209432739B9DEF112557A5 /* Pods-WQNetworkActivityIndicator_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WQNetworkActivityIndicator_Tests-umbrella.h"; sourceTree = "<group>"; };
-		C67322541DDAEC801F28C79C9BF30861 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		C7B7D4244A6673B808E6F8673A143363 /* WQNetworkActivityIndicator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = WQNetworkActivityIndicator.modulemap; sourceTree = "<group>"; };
-		CB12C11C4E29341580701B1975EDB3BC /* Pods-WQNetworkActivityIndicator_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WQNetworkActivityIndicator_Tests.modulemap"; sourceTree = "<group>"; };
+		C67322541DDAEC801F28C79C9BF30861 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C7B7D4244A6673B808E6F8673A143363 /* WQNetworkActivityIndicator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = WQNetworkActivityIndicator.modulemap; sourceTree = "<group>"; };
+		CB12C11C4E29341580701B1975EDB3BC /* Pods-WQNetworkActivityIndicator_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-WQNetworkActivityIndicator_Tests.modulemap"; sourceTree = "<group>"; };
 		D0BF934BD003E6C575AD6D3FD5559641 /* WQNetworkActivityIndicator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WQNetworkActivityIndicator-umbrella.h"; sourceTree = "<group>"; };
-		D457AA4D2B19E8B8F48919182BE522C5 /* Pods-WQNetworkActivityIndicator_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WQNetworkActivityIndicator_Example.modulemap"; sourceTree = "<group>"; };
+		D457AA4D2B19E8B8F48919182BE522C5 /* Pods-WQNetworkActivityIndicator_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-WQNetworkActivityIndicator_Example.modulemap"; sourceTree = "<group>"; };
 		EAEE61803AEBBB5383CCBE4F6D4639F9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F43055CC31BF7ABF254B20061BAE963B /* Pods-WQNetworkActivityIndicator_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WQNetworkActivityIndicator_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -309,7 +309,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0920;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -577,6 +577,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
