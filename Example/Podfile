@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WQNetworkActivityIndicator_Example' do
+  pod 'WQNetworkActivityIndicator', :path => '../'
+
+  target 'WQNetworkActivityIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
