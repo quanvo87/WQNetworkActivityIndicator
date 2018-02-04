@@ -5,6 +5,11 @@ class ViewController: UIViewController {
     private var aStarted = false
     private var bStarted = false
 
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        WQNetworkActivityIndicator.shared.timeout = 0
+    }
+
     @IBAction func startA(_ sender: Any) {
         if !aStarted {
             aStarted = true
