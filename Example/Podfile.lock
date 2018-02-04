@@ -1,0 +1,16 @@
+PODS:
+  - WQNetworkActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - WQNetworkActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  WQNetworkActivityIndicator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WQNetworkActivityIndicator: d8e35ae1016bd1cce6de23f9f6f06b3569e8e7bb
+
+PODFILE CHECKSUM: 07bcb3d202b7bb0cfea4245847d043b0b522c02d
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module WQNetworkActivityIndicator {
+  umbrella header "WQNetworkActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

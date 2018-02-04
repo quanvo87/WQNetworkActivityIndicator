@@ -1,24 +1,31 @@
-//
-//  ViewController.swift
-//  WQNetworkActivityIndicator
-//
-//  Created by quanvo87 on 02/03/2018.
-//  Copyright (c) 2018 quanvo87. All rights reserved.
-//
-
 import UIKit
+import WQNetworkActivityIndicator
 
 class ViewController: UIViewController {
+    private var aStarted = false
+    private var bStarted = false
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    @IBAction func startA(_ sender: Any) {
+        if !aStarted {
+            aStarted = true
+            WQNetworkActivityIndicator.shared.show()
+        }
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func stopA(_ sender: Any) {
+        aStarted = false
+        WQNetworkActivityIndicator.shared.hide()
     }
 
+    @IBAction func startB(_ sender: Any) {
+        if !bStarted {
+            bStarted = true
+            WQNetworkActivityIndicator.shared.show()
+        }
+    }
+
+    @IBAction func stopB(_ sender: Any) {
+        bStarted = false
+        WQNetworkActivityIndicator.shared.hide()
+    }
 }
-

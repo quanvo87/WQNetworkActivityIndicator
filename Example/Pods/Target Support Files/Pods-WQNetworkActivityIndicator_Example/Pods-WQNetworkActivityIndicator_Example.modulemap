@@ -1,0 +1,6 @@
+framework module Pods_WQNetworkActivityIndicator_Example {
+  umbrella header "Pods-WQNetworkActivityIndicator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
